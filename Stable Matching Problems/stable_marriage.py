@@ -1,3 +1,5 @@
+# Problem from: https://www.codechef.com/problems/STABLEMP
+
 import numpy as np
 
 def stable_matching(n_marriages, man_preference, woman_preference):
