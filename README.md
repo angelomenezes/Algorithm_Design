@@ -10,7 +10,7 @@ Repository created to gather the solutions for some of the problems proposed by 
 - [UVA 12405 - Scarecrow](https://onlinejudge.org/external/124/12405.pdf)
   
 ## Backtracking, Brute Force and Heuristics
-  - [Rat in the Maze](https://github.com/angelomenezes/Algorithm_Design/blob/master/Backtracking%20and%20Brute%20Force%20Problems/rat_in_the_maze.txt)
+  - [Rat in the Maze](https://github.com/angelomenezes/Algorithm_Design/blob/master/Backtracking%2C%20Brute%20Force%20and%20Heuristics/rat_in_the_maze.txt)
   - [UVA 750 - 8 Queens Chess Problem](https://onlinejudge.org/external/7/750.pdf)
   - [UVA 574 - Sum It Up](https://onlinejudge.org/external/5/574.pdf)
   - [UVA 10063 - Knuth's Permutation](https://onlinejudge.org/external/100/10063.pdf)
