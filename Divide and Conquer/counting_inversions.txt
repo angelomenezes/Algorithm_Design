@@ -1,0 +1,24 @@
+Faça um programa que conte o número de inversões existentes em um vetor.
+
+A entrada consiste de um valor t que indica o número de casos de teste. 
+
+Cada caso de testes consiste de um valor N (1 <= N <= 10000) que indica 
+a quantidade de elementos do vetor, seguidos dos elementos do vetor, 
+em uma nova linha. 
+
+Os valores v do vetor são inteiros positivos (1<= v <= 30000).
+
+a saída consiste de uma única linha com o nro de inversões, seguida de um return. 
+
+Entrada 
+
+2 
+10 
+1 2 3 4 5 6 7 8 9 10 
+4 
+8 4 2 1
+
+Saida
+ 
+0 
+6

@@ -18,6 +18,7 @@ if __name__ == "__main__":
                 break
             else:
                 generate_permutations(list(sequence)[::-1],0,len(sequence)-1)
+                print(knuth_algorithm_l(sequence))
                 print('')
     except EOFError:
         pass
